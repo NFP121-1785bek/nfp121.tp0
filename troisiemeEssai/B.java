@@ -30,4 +30,5 @@ public class B extends A
         // Insérez votre code ici
         return x + y;
     }
+    
 }
